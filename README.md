@@ -147,7 +147,8 @@ Understanding these concepts helps security professionals align technical contro
 ---
 
 LinkedIn: [
-X: [
+
+X: [https://x.com/charisma1385/status/2067909371506434292]
 
 ---
 #CyberSecurity #Compliance #CyberResilience #NIS2 #DORA #NIST #IncidentResponse #DigitalForensics #RiskManagement #AuditReadiness #DisasterRecovery #SecurityOperations #Acronis #InfoSec #Governance
