@@ -146,7 +146,7 @@ Understanding these concepts helps security professionals align technical contro
 ---
 ---
 
-LinkedIn: [
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7473676130030604289/]
 
 X: [https://x.com/charisma1385/status/2067909371506434292]
 
